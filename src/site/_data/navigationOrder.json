@@ -3,8 +3,7 @@
     "1- Magic & Mayhem - Introduction",
     "2- Magic & Mayhem - History",
     "3- Magic & Mayhem - Faiths",
-    "4- Magic & Mayhem - Continents",
-    "Magic & Mayhem - Continents"
+    "4- Magic & Mayhem - Continents"
   ],
   "/1- Magic & Mayhem - Introduction": [
     "What is Magic & Mayhem"
@@ -23,11 +22,5 @@
     "Roylar",
     "Arkadios",
     "Terra Occasus"
-  ],
-  "/Magic & Mayhem - Continents": [
-    "Arkadios",
-    "Continents",
-    "Roylar",
-    "Tholoth"
   ]
 }
