@@ -1,0 +1,39 @@
+---
+{"dg-publish":true,"permalink":"/magic-and-mayhem-continents/arkadios/","dg-note-properties":{}}
+---
+
+
+*The Continent of Arkadios, originally named Myrakar, is the only other continent aside from [[Magic & Mayhem - Continents/Roylar\|Roylar]] to be unexplored, with its explored bits being filled with rapid jungles, magical forests and species never seen before on the other continents. The continent's northern region is the only part fully explored and is filled with rich resources that require either taming or living with the lands many predators to extract, it is not unrealistic for one to think that with the region's resources, one could revitalize their nation's economy and bring it to a new golden age. Arkadios is home to many native species that either have their own nations or are now subjugated and assimilated by colonial nations, it is not uncommon for one to see multi-species towns or districts even in colonial land, the continent has forced its outsiders to adapt to its way of life by the use of its rapid jungles which force many colonial settlements to be coastal though with time passing, even colonial nations now with citizens born from natives have started forays into settling deeper inland.*
+
+*Arkadios culturally is more diverse than [[Magic & Mayhem - Continents/Roylar\|Roylar]] and [[Magic & Mayhem - Continents/Tholoth\|Tholoth]] combined, with its cultures mimicking the days of old in [[Magic & Mayhem - Continents/Roylar\|Roylar]] where its more common to see tribes and city states over actual large empires or kingdoms. Elgarians are the outlier due to the foreign influence of the Tholothii who both found the continent and colonized most of its explored regions, and like [[Magic & Mayhem - Continents/Roylar\|Roylar]] cultures they were forcefully handled and modified by the Tholothii until their eventual rebellion, Elgar now filled with both natives who usually didn't interact much with each other and new species brought over as slaves by the Tholothii became an enigma to foreigners who were used to see empires built on unified cultures. Elgar instead became proud of its diversity and created a culture of said diversity and acceptance that makes the melting pot of Arkadios. The colonial nations, all focused on colonizing the land for their own home nations have also created hybrid cultures from their continued presence but the Nelaeryn instead have focused on settling on the coast creating their cities based on a design mimicking of fortresses with entire districts being called holds and being separated by tall walls with the countryside being given to their military to cleanse for future expansion.*
+
+*Arkadios like [[Magic & Mayhem - Continents/Roylar\|Roylar]] was once united by one empire and like [[Magic & Mayhem - Continents/Roylar\|Roylar]] said empire has fallen on harder times. The nation that colonials see as the representative of native resistance is the Elgarian Empire or Elgar for short, once the nation that expelled many of the current colonial nations and had even dared to go toe to toe against the Nelaeryn empire due to the Elgarian use of wyverns. By 1982 PR, Arkadios is divided as spoils by its many returned or new colonizers with Elgar facing its dark age which led to its shrinking to its core lands in the center of the explored regions. The western explored regions are divided between the Nadiran Merchant Association and the United Colonies of Roylar. The eastern explored regions house the Valdian Colonial Expedition, The Order of the Children of Veranar, and lastly the Nelaeryn Southern Expedition which unlike its western counterpart, is more focuses on settling the new continent and creating a new hold for the eternal empire over interfering in other state affairs.*
+
+```zoommap
+image: Assets/Attachments/Arkadios.png
+# markers is optional; defaults to <image>.markers.json
+# markers: Assets/Map.jpg.markers.json
+
+# Map view limits
+minZoom: 0.1
+maxZoom: 8
+
+# Size & interactivity
+height: 390px
+width: 100%
+resizable: true
+resizeHandle: native     # left | right | both | native
+render: canvas           # or: dom
+
+# Responsive display (fit into width, no wheel/pinch/dblclick pan/zoom)
+responsive: false        # true → always fit; disables pan/zoom gestures
+
+# Storage (optional)
+# storage: note          # default is json; use "note" to store markers inline
+# id: map-1              # optional stable id for inline storage (per code block)
+
+# Alignment / wrapping (optional)
+align: right             # left | center | right
+wrap: true               # wrap text; useful with left/right alignment
+```
+

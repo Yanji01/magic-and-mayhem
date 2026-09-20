@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/3-magic-and-mayhem-faiths/the-imperial-faith-of-roylar/","dg-note-properties":{}}
+---
+
+
+The Imperial Faith was established in 20 PR, after the empire had finally defeated the last major pockets of Tholothii resistance and set itself to the task of building a continent-wide empire. Its founders can be traced to Rex Roylar himself and the first Central Patriarch, Instantus. The faith was made as a way to create a unified religious pillar for the empire, preventing religious differences from sparking conflict and giving the Nelaeryn a chance to reconquer Roylar. An amalgamation of the many faiths of the continent, it was first put to text and law during the First Council of Fustia, where the main religious heads of all the faiths under the empire gathered and compromised to create the Imperial Faith.
+
+In its initial centuries, it was a religion of voluntary principles, with the empire focusing on making it appealing to consider oneself a follower of the Imperial Faith through material means and favoring those who did. Even though this grew tension across the continent, the empire never overplayed its hand enough to cause rebellion, and instead settled on a slow conversion of the continent, focusing on cities and towns over rural areas.
+
+This policy continued until Emperor Deylor, crowned in 1010 PR. A renowned zealot of the Imperial Faith, he established the cult of Roylar as a new addition to the pantheon and proceeded to deify Rex Roylar, into a man turned god after death for his grand deeds in life. Deylor also enforced far more ruinous taxes upon all who didn't follow the Imperial Faith, leading to a few revolts that were crushed by the Imperial legions. This policy led to conversions accelerating at a far more rapid pace to avoid said taxes. By the year 1110 PR, Imperial Faith communities in urban centers across the empire had become quite common. And as of 1982 PR, there are whole regions answering to the Imperial Faith over their old monotheistic beliefs.
