@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-magic-and-mayhem-history/the-era-of-the-gods/","dg-note-properties":{}}
 ---
 
-This Era is considered the most fictitious and has the least historical knowledge and proof to be fully documented decade by decade let alone year by year, what is know is mostly derived from the numerous religious texts from [[Magic & Mayhem - Continents/Roylar\|Roylar]], [[Magic & Mayhem - Continents/Tholoth\|Tholoth]], Elgarian Seraphism and Nadiran texts, as you can expect we will divide this Era based on region rather than linear time, and we will start with Tholoth first.
+This Era is considered the most fictitious and has the least historical knowledge and proof to be fully documented decade by decade let alone year by year, what is know is mostly derived from the numerous religious texts from [[4- Magic & Mayhem - Continents/Roylar\|Roylar]], [[4- Magic & Mayhem - Continents/Tholoth\|Tholoth]], Elgarian Seraphism and Nadiran texts, as you can expect we will divide this Era based on region rather than linear time, and we will start with Tholoth first.
 
 ## ***Tholoth's Truth***
 
