@@ -10,32 +10,3 @@
 *Roylar is divided politically and unlike [[4- Magic & Mayhem - Continents/Tholoth\|Tholoth]], it is not united by one state though by technicality it was once in the olden days. By 1982 PR, The Empire of Roylar or as it is called sometimes, the Roylar Empire or the fifth Roylar empire or The Ventolar Empire, or finally third Ventolar empire with its numerous names and identities depending on the state it interacts with, holds the center of the continent under its velvet boot with its only other polity being the Kingdom of Alfaine which was split into three duchies by the empire after their most recent war. East Roylar holds the many successor states of the Grand Kingdom of Fiuma which once controlled most of the eastern coast, it also houses the Empire of Valdia, The Vistula Cantons and Divided Courland. West Roylar holds The Korinsky Resardom and the Badlands. North Roylar holds the Vendri tribes. South Roylar or Nadira, holds the Caliphate of Nadira which quite like Tholoth even though it is depicted united by outsiders, the ones who live in Nadira know it as a divided land with emirs, sultans and even religious orders taking control of whole regions and acting as their rulers rather than the Caliph. Unlike Tholoth, it is not a closed state and is the largest trading hub of the continent with Central Roylar being the second largest.*
 
 *One thing to not forget is that numerous islands and archipelagos of the continent have been seized by the Nelaeryn Western Expedition with them also holding quite the influence on the successor states of Fiuma, they act both as ruthless settlers and pirates who occasionally raid the continent to keep their coffers afloat or to keep the continent on edge.*
-
-```zoommap
-image: Assets/Attachments/Roylar.webp
-# markers is optional; defaults to <image>.markers.json
-# markers: Assets/Map.jpg.markers.json
-
-# Map view limits
-minZoom: 0.1
-maxZoom: 8
-
-# Size & interactivity
-height: 390px
-width: 100%
-resizable: true
-resizeHandle: native     # left | right | both | native
-render: canvas           # or: dom
-
-# Responsive display (fit into width, no wheel/pinch/dblclick pan/zoom)
-responsive: false        # true → always fit; disables pan/zoom gestures
-
-# Storage (optional)
-# storage: note          # default is json; use "note" to store markers inline
-# id: map-1              # optional stable id for inline storage (per code block)
-
-# Alignment / wrapping (optional)
-align: right             # left | center | right
-wrap: true               # wrap text; useful with left/right alignment
-```
-
