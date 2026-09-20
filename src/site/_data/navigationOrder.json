@@ -1,0 +1,33 @@
+{
+  "/": [
+    "1- Magic & Mayhem - Introduction",
+    "2- Magic & Mayhem - History",
+    "3- Magic & Mayhem - Faiths",
+    "4- Magic & Mayhem - Continents",
+    "Magic & Mayhem - Continents"
+  ],
+  "/1- Magic & Mayhem - Introduction": [
+    "What is Magic & Mayhem"
+  ],
+  "/2- Magic & Mayhem - History": [
+    "History",
+    "The Era Of The Gods"
+  ],
+  "/3- Magic & Mayhem - Faiths": [
+    "The Faiths",
+    "The Imperial Faith of Roylar"
+  ],
+  "/4- Magic & Mayhem - Continents": [
+    "Continents",
+    "Tholoth",
+    "Roylar",
+    "Arkadios",
+    "Terra Occasus"
+  ],
+  "/Magic & Mayhem - Continents": [
+    "Arkadios",
+    "Continents",
+    "Roylar",
+    "Tholoth"
+  ]
+}
