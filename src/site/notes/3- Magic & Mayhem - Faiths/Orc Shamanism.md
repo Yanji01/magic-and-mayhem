@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/3-magic-and-mayhem-faiths/orc-shamanism/","dg-note-properties":{}}
+---
+
+The Orcish faith revolves around the worship of spirits and the natural elements of the world. Gods do not exist. Simply put, the world was made by the will of the spirits, who live in free plains untainted by the outside world. Those who become worthy enough will have their soul turned into a spirit that protects the Orcish people, while those not worthy are left to rot in the ground. This is achieved when an orc dies: their family strips them of all armor and clothing, then lays them down in a field. If they are worthy, the body disintegrates into many particles, which eventually become unseen by the naked eye. If unworthy, the body rots in the ground, and the family is forced to burn it, denying them peace in the afterlife.
+
+The faith is led by the newly ordained Shaman Order, which assigns a shaman to each tribe. Every December the Shaman Order convenes its council, then sends out a second batch of shamans to inspect and gather the tribes for the New Year festival. This signifies a new beginning and the start of the New Year's tournament, where tribes send their best warriors to fight in makeshift arenas. Afterward, celebrations occur, with tribes trying to out-compete each other over who has the best feast.
+
+The faith allows other races to be inducted into its fold, but only after they prove themselves. Such an event happens from time to time with the most recent one being, with a fallen knight of Antelon named Aria, who won the New Year's competition and converted so she would be allowed to marry her Orcish love who was a fellow woman. Homosexuality is allowed in the faith, but the Shaman Order actively discourages it so that Orcish population growth stays high, though it is still not rare to see orcs marrying the same sex.
+
+The symbol for Orcish shamanism doesn't exactly exist, but with the coming of the Shaman Order, the symbol of the faith has become the inscriptions the shamans of Blue Mountain found on its peak. It has become the unofficial symbol, one outsiders might recognize a shaman by, while the normal orc would recognize a shaman from their always-black robes and blue armband.
