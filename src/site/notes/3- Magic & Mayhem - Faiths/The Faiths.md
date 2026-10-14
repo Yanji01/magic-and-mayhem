@@ -9,8 +9,8 @@ The Faiths of the Magic and Mayhem are mixed with original ideas and ones inspir
 
 - [[3- Magic & Mayhem - Faiths/The Imperial Faith of Roylar\|The Imperial Faith of Roylar]]
 - [[3- Magic & Mayhem - Faiths/Tholoth's Truth\|Tholoth's Truth]]
-- The Eternal Flame
-- Seraphism
+- [[3- Magic & Mayhem - Faiths/The Faith of the Dawn\|The Faith of the Dawn]]
+- [[3- Magic & Mayhem - Faiths/Seraphism\|Seraphism]]
 - [[3- Magic & Mayhem - Faiths/The Faith of The Two\|The Faith of The Two]]
 - [[3- Magic & Mayhem - Faiths/The Faith of Carden\|The Faith of Carden]]
 - [[3- Magic & Mayhem - Faiths/The Faith of Antelon\|The Faith of Antelon]]
